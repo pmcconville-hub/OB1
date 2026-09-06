@@ -23,32 +23,32 @@ Never built an Open Brain? Start here:
 
 ## Recent Contributions
 
-The 20 most recent merged PRs. This list is generated from GitHub and refreshes daily. Last updated: 2026-08-30.
+The 20 most recent merged PRs. This list is generated from GitHub and refreshes daily. Last updated: 2026-09-06.
 
 <!-- recent-contributions:start -->
 
 | Contribution | What changed | Creator |
 | ------------ | ------------ | ------- |
-| [Refresh README recent contributions](README.md) | Refresh README recent contributions. | [@github-actions[bot]](https://github.com/github-actions[bot]) |
-| [Add deploy-pages workflow for openbrain.fyi](.github/workflows/deploy-pages.yml) | Adds deploy-pages workflow for openbrain.fyi. | [@snapsynapse](https://github.com/snapsynapse) |
-| [Google Activity import: include Gemini answers from safeHtmlItem](recipes/google-activity-import/) | Google Activity import: include Gemini answers from safeHtmlItem. | [@araece](https://github.com/araece) |
-| [Repo-learning-coach: load .env via dotenv + fix research frontmatter](recipes/repo-learning-coach/) | Repo-learning-coach: load .env via dotenv + fix research frontmatter. | [@eazene](https://github.com/eazene) |
-| [Provenance-chains: fix eval.mjs default model (dated id 404s on OpenRouter)](recipes/provenance-chains/) | Provenance-chains: fix eval.mjs default model (dated id 404s on OpenRouter). | [@eazene](https://github.com/eazene) |
-| [Fix editorial-policy auditor JSON parse under claude-haiku-4-5](recipes/editorial-policy/) | Fixes editorial-policy auditor JSON parse under claude-haiku-4-5. | [@eazene](https://github.com/eazene) |
-| [Fix add_household_item storing details as an escaped JSON string](extensions/household-knowledge/) | Fixes add_household_item storing details as an escaped JSON string. | [@hannahgwilson](https://github.com/hannahgwilson) |
-| [Thought work claims for parallel workers](schemas/thought-work-claims/) | Thought work claims for parallel workers. | [@alanshurafa](https://github.com/alanshurafa) |
-| [Authorship edges — speaker attribution + self author edges](recipes/authorship-edges/) | Authorship edges — speaker attribution + self author edges. | [@alanshurafa](https://github.com/alanshurafa) |
-| [Add capture_derived_thought MCP tool to provenance-chains](recipes/provenance-chains/) | Adds capture_derived_thought MCP tool to provenance-chains. | [@eazene](https://github.com/eazene) |
-| [Add updating-thoughts and deleting-thoughts skill packs](skills/deleting-thoughts/) | Adds updating-thoughts and deleting-thoughts skill packs. | [@eazene](https://github.com/eazene) |
-| [Report the real cause when all LLM providers fail](integrations/entity-extraction-worker/) | Report the real cause when all LLM providers fail. | [@sjgold](https://github.com/sjgold) |
-| [Content-fingerprint-dedup: add write-time fingerprint trigger](recipes/content-fingerprint-dedup/) | Content-fingerprint-dedup: add write-time fingerprint trigger. | [@eazene](https://github.com/eazene) |
-| [Fix readwise-import against content_fingerprint unique index](recipes/readwise-import/) | Fixes readwise-import against content_fingerprint unique index. | [@eazene](https://github.com/eazene) |
-| [Persistent wiki pages](schemas/wiki-pages/) | Persistent wiki pages. | [@alanshurafa](https://github.com/alanshurafa) |
-| [Fix update-thought-mcp deploy-blocking bugs](integrations/update-thought-mcp/) | Fixes update-thought-mcp deploy-blocking bugs. | [@eazene](https://github.com/eazene) |
-| [Reject non-POST MCP requests with 405 to prevent GET handshake hang](integrations/kubernetes-deployment/) | Reject non-POST MCP requests with 405 to prevent GET handshake hang. | [@jcpoyser](https://github.com/jcpoyser) |
-| [Fix ob-graph MCP GET route causing SSE reconnect storm](recipes/ob-graph/) | Fixes ob-graph MCP GET route causing SSE reconnect storm. | [@eazene](https://github.com/eazene) |
-| [Fix UUID id pagination in thought-enrichment backfills](recipes/thought-enrichment/) | Fixes UUID id pagination in thought-enrichment backfills. | [@themacmarketer](https://github.com/themacmarketer) |
-| [Fix double-encoded metadata writes in thought-enrichment](recipes/thought-enrichment/) | Fixes double-encoded metadata writes in thought-enrichment. | [@jebontheside](https://github.com/jebontheside) |
+| [Main from NateBJones-Projects:main](recipes/authorship-edges/) | Main from NateBJones-Projects:main. | [@pull[bot]](https://github.com/pull[bot]) |
+| [Main from NateBJones-Projects:main](docs/04-ai-assisted-setup.md) | Main from NateBJones-Projects:main. | [@pull[bot]](https://github.com/pull[bot]) |
+| [Main from NateBJones-Projects:main](https://github.com/pmcconville-hub/OB1/pull/30) | Main from NateBJones-Projects:main. | [@pull[bot]](https://github.com/pull[bot]) |
+| [Main from NateBJones-Projects:main](integrations/rest-api/) | Main from NateBJones-Projects:main. | [@pull[bot]](https://github.com/pull[bot]) |
+| [Main from NateBJones-Projects:main](integrations/chrome-capture-extension/) | Main from NateBJones-Projects:main. | [@pull[bot]](https://github.com/pull[bot]) |
+| [Main from NateBJones-Projects:main](recipes/gmail-smart-pull/) | Main from NateBJones-Projects:main. | [@pull[bot]](https://github.com/pull[bot]) |
+| [Main from NateBJones-Projects:main](skills/auto-capture-claude-code/) | Main from NateBJones-Projects:main. | [@pull[bot]](https://github.com/pull[bot]) |
+| [Main from NateBJones-Projects:main](server/index.ts) | Main from NateBJones-Projects:main. | [@pull[bot]](https://github.com/pull[bot]) |
+| [Main from NateBJones-Projects:main](schemas/enhanced-thoughts/) | Main from NateBJones-Projects:main. | [@pull[bot]](https://github.com/pull[bot]) |
+| [Main from NateBJones-Projects:main](integrations/hermes-agent-memory/) | Main from NateBJones-Projects:main. | [@pull[bot]](https://github.com/pull[bot]) |
+| [Main from NateBJones-Projects:main](dashboards/ob1-canonical-landing/) | Main from NateBJones-Projects:main. | [@pull[bot]](https://github.com/pull[bot]) |
+| [Main from NateBJones-Projects:main](schemas/per-agent-identity/) | Main from NateBJones-Projects:main. | [@pull[bot]](https://github.com/pull[bot]) |
+| [Main from NateBJones-Projects:main](recipes/editorial-policy/) | Main from NateBJones-Projects:main. | [@pull[bot]](https://github.com/pull[bot]) |
+| [Main from NateBJones-Projects:main](integrations/openclaw-agent-memory/) | Main from NateBJones-Projects:main. | [@pull[bot]](https://github.com/pull[bot]) |
+| [Main from NateBJones-Projects:main](dashboards/open-brain-dashboard-pro/) | Main from NateBJones-Projects:main. | [@pull[bot]](https://github.com/pull[bot]) |
+| [Main from NateBJones-Projects:main](schemas/workflow-status/) | Main from NateBJones-Projects:main. | [@pull[bot]](https://github.com/pull[bot]) |
+| [Main from NateBJones-Projects:main](docs/assets) | Main from NateBJones-Projects:main. | [@pull[bot]](https://github.com/pull[bot]) |
+| [Main from NateBJones-Projects:main](integrations/kubernetes-deployment/) | Main from NateBJones-Projects:main. | [@pull[bot]](https://github.com/pull[bot]) |
+| [Main from NateBJones-Projects:main](recipes/thought-enrichment/) | Main from NateBJones-Projects:main. | [@pull[bot]](https://github.com/pull[bot]) |
+| [Main from NateBJones-Projects:main](skills/world-model-diagnostic/) | Main from NateBJones-Projects:main. | [@pull[bot]](https://github.com/pull[bot]) |
 
 <!-- recent-contributions:end -->
 
